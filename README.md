@@ -14,5 +14,6 @@
     📖 I am mostly coding all the time right now.<br/>
     🎮 Enjoy FPS games and Minecraft.<br/>
 </pre>
+<br/>
 <img src="https://media1.tenor.com/m/tHCECHs0aRUAAAAC/dancing-cat-dance.gif" height="80" width="200" style="border-radius: 10px;" />
 </div>
